@@ -1,6 +1,7 @@
 ## - 🔭 I’m currently working on my first fullstack project!
 ## - 🌱 I’m currently learning how to use GitHub!
-## - 😄 Connect with me on LinkedIn! www.linkedin.com/in/javon-garcia
+## - 😄 Connect with me on LinkedIn! 
+## www.linkedin.com/in/javon-garcia
 
 
 <!--
