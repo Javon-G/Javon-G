@@ -1,19 +1,12 @@
-## - 🔭 I’m currently working on my first fullstack project!
-## - 🌱 I’m currently learning how to use GitHub!
-## - 😄 Connect with me on LinkedIn! 
-## www.linkedin.com/in/javon-garcia
+## Making my way around GitHub, one commit at a time
 
+### 🌱 About Me
+- Learning to Build Real Projects
+- Teaching Myself Full-Stack Development
 
-<!--
-**Javon-G/Javon-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😄 Connect with me on LinkedIn
+- www.linkedin.com/in/javon-garcia
 
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Projects
+- First `Full-Stack` Application
+- More Coming Soon...
