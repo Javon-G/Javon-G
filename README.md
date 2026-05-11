@@ -1,12 +1,15 @@
-## Hi there 👋
+## - 🔭 I’m currently working on my first fullstack project!
+## - 🌱 I’m currently learning how to use GitHub!
+## - 😄 Connect with me on LinkedIn! 
+## www.linkedin.com/in/javon-garcia
+
 
 <!--
 **Javon-G/Javon-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
