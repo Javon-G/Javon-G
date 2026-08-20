@@ -8,5 +8,4 @@
 - www.linkedin.com/in/javon-garcia
 
 ### ⚡ Projects
-- First `Full-Stack` Application
-- More Coming Soon...
+- Coming Soon...
